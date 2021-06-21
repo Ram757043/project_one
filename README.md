@@ -1,4 +1,2 @@
-# project_one
-First repository
-
+print res()
 
